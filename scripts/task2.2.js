@@ -1,3 +1,5 @@
+'use strict';
+
 function validate(event) {
     let button = event.target;
     let form = button.parentElement;
